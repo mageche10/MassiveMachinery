@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "massivemachinery:balsam_fir_logs"
+    }
+  ],
+  "result":{
+    "item": "massivemachinery:balsam_fir_planks",
+    "count": 4
+  }
+}
