@@ -1,5 +1,17 @@
 {
   "replace": false,
   "values": [
+    "massivemachinery:bauxite_ore",
+    "massivemachinery:deepslate_bauxite_ore",
+    "massivemachinery:copper_ore",
+    "massivemachinery:deepslate_copper_ore",
+    "massivemachinery:lead_ore",
+    "massivemachinery:deepslate_lead_ore",
+    "massivemachinery:tin_ore",
+    "massivemachinery:deepslate_tin_ore",
+    "massivemachinery:zinc_ore",
+    "massivemachinery:deepslate_zinc_ore",
+    "massivemachinery:sulfur_ore",
+    "massivemachinery:deepslate_sulfur_ore"
   ]
 }

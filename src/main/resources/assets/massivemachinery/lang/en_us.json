@@ -3,6 +3,25 @@
   "block.massivemachinery.balsam_fir_planks": "Balsam Fir Planks",
   "block.massivemachinery.balsam_fir_log": "Balsam Fir Log",
   "block.massivemachinery.balsam_fir_wood": "Balsam Fir Wood",
+  "block.massivemachinery.bauxite_ore": "Bauxite Ore",
+  "block.massivemachinery.deepslate_bauxite_ore": "Deepslate Bauxite Ore",
+  "block.massivemachinery.copper_ore": "Copper Ore",
+  "block.massivemachinery.deepslate_copper_ore": "Deepslate Copper Ore",
+  "block.massivemachinery.lead_ore": "Lead Ore",
+  "block.massivemachinery.deepslate_lead_ore": "Deepslate Lead Ore",
+  "block.massivemachinery.sulfur_ore": "Sulfur Ore",
+  "block.massivemachinery.deepslate_sulfur_ore": "Deepslate Sulfur Ore",
+  "block.massivemachinery.tin_ore": "Tin Ore",
+  "block.massivemachinery.deepslate_tin_ore": "Deepslate Tin Ore",
+  "block.massivemachinery.zinc_ore": "Zinc Ore",
+  "block.massivemachinery.deepslate_zinc_ore": "Deepslate Zinc Ore",
+
+  "item.massivemachinery.raw_bauxite": "Raw Bauxite",
+  "item.massivemachinery.raw_copper": "Raw Copper",
+  "item.massivemachinery.raw_lead": "Raw Lead",
+  "item.massivemachinery.raw_tin": "Raw Tin",
+  "item.massivemachinery.raw_zinc": "Raw Zinc",
+  "item.massivemachinery.sulfur": "Sulfur",
 
   "itemGroup.massiveMachineryTab": "Massive Machinery"
 }

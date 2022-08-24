@@ -1,5 +1,9 @@
 {
   "replace": false,
   "values": [
+    "massivemachinery:bauxite_ore",
+    "massivemachinery:deepslate_bauxite_ore",
+    "massivemachinery:zinc_ore",
+    "massivemachinery:deepslate_zinc_ore"
   ]
 }
